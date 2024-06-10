@@ -1,5 +1,8 @@
 # Diabetics-patients-Analysis
-**Goal:**The Diabetes Analysis project focuses on exploring and understanding the relationship between various factors and the occurrence of diabetes using the Pima Indians Diabetes Database. The dataset contains 768 records of female patients, each with 8 medical predictor variables and one target variable (Outcome). The goal is to identify key factors that influence diabetes and provide strategic recommendations for better disease management and prevention. 
+![Diebetic](https://github.com/Sksahanan/Credit-Card-Performance-Growth-Initiative/assets/171436562/6261cf4d-ed3a-4e6d-8cf3-a0376d2872be)
+
+
+**Goal:** The Diabetes Analysis project focuses on exploring and understanding the relationship between various factors and the occurrence of diabetes using the Pima Indians Diabetes Database. The dataset contains 768 records of female patients, each with 8 medical predictor variables and one target variable (Outcome). The goal is to identify key factors that influence diabetes and provide strategic recommendations for better disease management and prevention. 
 
 **Project Insights** 
 
